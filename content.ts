@@ -36,10 +36,10 @@ const content = {
     // Ganti src dengan foto kalian sendiri di folder /public/images
     // Taruh foto dengan nama sesuai di bawah, atau ganti path-nya
     photos: [
-      { src: "/images/memory-1.jpg", caption: "Waktu itu ❤️", rotate: -6 },
-      { src: "/images/memory-2.jpg", caption: "Gemesin banget", rotate: 4 },
-      { src: "/images/memory-3.jpg", caption: "Favorit aku", rotate: -3 },
-      { src: "/images/memory-4.jpg", caption: ":)", rotate: 5 },
+      { src: "/images/memory-1.png", caption: "Waktu itu ❤️", rotate: -6 },
+      { src: "/images/memory-2.png", caption: "Gemesin banget", rotate: 4 },
+      { src: "/images/memory-3.jpeg", caption: "Favorit aku", rotate: -3 },
+      { src: "/images/memory-4.png", caption: ":)", rotate: 5 },
     ],
     note: "Taruh foto kalian di folder public/images ya, biar makin lengkap 🧸",
   },
