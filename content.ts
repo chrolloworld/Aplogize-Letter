@@ -41,7 +41,7 @@ const content = {
       { src: "/images/memory-3.jpeg", caption: "Favorit aku", rotate: -3 },
       { src: "/images/memory-4.png", caption: ":)", rotate: 5 },
     ],
-    note: "Taruh foto kalian di folder public/images ya, biar makin lengkap 🧸",
+    note: "Hehe... ternyata kita lucu juga yaa. 🧸🤍",
   },
 
   // ---------- PROMISE ----------
