@@ -6,7 +6,7 @@ import { Play, Pause, Music2 } from "lucide-react";
 
 export default function MusicWidget({
   title = "Our Song",
-  src = "/music/song.mp3",
+  src = "/music/dariplanetlain.mp3",
 }: {
   title?: string;
   src?: string;
