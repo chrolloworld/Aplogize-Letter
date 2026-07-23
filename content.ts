@@ -21,7 +21,7 @@ const content = {
   letter: {
     heading: "Maaf yaa sayang 💌",
     paragraphs: [
-      "Aku bener-bener nggak bermaksud bikin kamu sedih. Setiap kali inget ekspresi kamu, hati aku ikut sesak.",
+      "Aku bener-bener nggak bermaksud bikin kamu sedih.",
       "Aku sadar aku masih banyak salah, banyak kurang, dan masih harus banyak belajar jadi lebih baik lagi buat kamu.",
       "Aku janji bakal lebih baik lagi ke depannya, lebih sabar, lebih ngertiin, dan lebih jagain perasaan kamu.",
       "Makasih ya udah selalu sabar hadapin aku. Aku sayang kamu, lebih dari yang bisa aku ungkapin lewat kata-kata.",
